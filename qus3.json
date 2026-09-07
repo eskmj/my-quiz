@@ -1,7 +1,7 @@
 {
   "fullsetgk": [
     {
-      "uniqueKey": "34684e",
+      "uniqueKey": "polity1",
       "duration": 15,
       "questions": [
         {
@@ -264,13 +264,7 @@
           ],
           "correctAnswer": 0,
           "explanation": "<p>விடை: விடை (A)</p>"
-        }
-      ]
-    },
-    {
-      "uniqueKey": "34684e",
-      "duration": 15,
-      "questions": [
+        },
         {
           "id": 21,
           "level": 2,
@@ -661,7 +655,7 @@
           "correctAnswer": 0,
           "explanation": "<p>விடை: விடை (A)</p>"
         }
+        
       ]
     }
-  ]
-}
+  ]}
